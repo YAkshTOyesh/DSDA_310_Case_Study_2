@@ -5,14 +5,14 @@ This case study analyzes the performance metrics and viewership demographics ass
 All data disclosed for this project is property of the Client from Nicole Martin Consulting. Data, materials, discussions about production strategy, and any corresponding insights discovered through this project are confidential and not to be copied, publicized or shared outside of this specific project. Permission has been granted allowing this class access from November 1, 2024 through November 27, 2024, upon which all printed and digital materials are to be securely disposed of, with the exception of student final presentations.
 
 # Repository Contents
-Case_2_data_cleaning.ipynb - Jupyter Notebook containing our Python Code for data cleaning and preprocessing
+Case_2_data_cleaning.ipynb - Jupyter Notebook containing our Python Code for data cleaning and preprocessing  
 Final_Report CS2 Aadi_Yaksh.pdf - Final Report of project outlining all project details and results
 
 # Results
-From 2021 to 2022:
-a. Estimated revenue increased by **18.5 %**
-b. Net Gains in Subscribers rose by **39.6 %**
-c. Suggested Videos and Browse Features remain as the top two sources of exposure for this YouTube channel
+From 2021 to 2022:  
+a. Estimated revenue increased by **18.5 %**  
+b. Net Gains in Subscribers rose by **39.6 %**  
+c. Suggested Videos and Browse Features remain as the top two sources of exposure for this YouTube channel  
 
 # Conclusion and Future Recommendations
 1. The channel is indeed bringing more revenue, especially converting more viewers to loyal customers.
